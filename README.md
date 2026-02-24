@@ -7,7 +7,7 @@ Executive-level healthcare operations dashboard designed to monitor appointment 
 
 ## 🖼 Dashboard Preview
 
-<img src="Clinic_Appointments_Dashboard.png" width="900">
+<img src="Clinic Appointments — No-Show & Utilization Dashboard.png" width="900">
 
 ---
 
